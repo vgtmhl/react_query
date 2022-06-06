@@ -1,4 +1,4 @@
-# "React Query Tutorial for Beginners"
+# "React Query Intro"
 
 ---
 
